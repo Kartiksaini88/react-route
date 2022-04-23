@@ -1,0 +1,540 @@
+{
+  "home": [
+    { 
+      "id":1,
+      "name":"Partake Foods",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-17_at_12.04.36_PM.png?format=webp&v=1596137581",
+      "content":"When Denise Woodard couldn’t find healthy snacks for her daughter, Vivane, that were also allergy friendly, she founded Partake Foods. Kicking off the top Shopify shops, Partake offers cookies in flavors like chocolate chip, birthday cake, and ginger snaps that are school safe and free of the top 8 allergens as well as artificial colors, preservatives, and genetically modified ingredients."
+    },
+    {
+      "id":2,
+      "name":"Uppercase magazine",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/1._Uppercase.png?format=webp&v=1596139193",
+      "content":"For over a decade, Uppercase magazine has offered interesting articles and photos focused on craft, fashion, illustration, and design, all wrapped up in a beautifully printed package. Creator and editor Janine Vangool uses her platform to feature fellow creators and, since launching one of the top Shopify stores in 2009, has expanded the publication to include Little U, a tiny magazine for the young and young at heart, and Encyclopedia, a series of books that deep dive on topics like ceramics, cookbooks, quilting, and printmaking"
+    },
+    {
+      "id":3,
+      "name":"Hiut Denim Co.",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-15_at_10.09.47_AM.png?format=webp&v=1596139383",
+      "content":"Hiut Denim is based in Cardigan, Wales, a town that, until 2002, was home to the biggest jeans factory in the United Kingdom Hiut Denim was founded in 2011 to take advantage of the jean-making skills and knowhow that remained with many locals, showcase their dedication to craft and bring manufacturing back to Cardigan. Dedicated to making the best jeans, not the most jeans, Hiut Denim focuses on details, satisfaction, and quality."
+    },
+    {
+      "id":4,
+      "name":"Manitobah Mukluks",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-15_at_11.23.00_AM.png?format=webp&v=1596139534",
+      "content":"Founded by Métis entrepreneur Sean McCormick in 1997 and based in Manitoba, Canada, Manitobah Mukluks keeps and celebrates Indigenous traditions through footwear. Its Storyboot Project collection is made in partnership with Indigenous elders and artisans. On the flip side, to make its footwear accessible to more people, there are also lines made internationally."
+
+    },
+    {
+      "id":5,
+      "name":"Flourist",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-14_at_3.24.44_PM.png?format=webp&v=1596139882",
+      "content":"Much like a charming flower shop, Flourist showcases each of its grains, beans, and freshly milled flours like a fresh blooming bouquet. Flourist sells 100% traceable and freshly stone-milled flours and dried goods, and offers pages on its website dedicated to telling more about the farmers it works with. One of the best Shopify websites is also a haven for baking enthusiasts—sourcing ingredients from Flourist is an exploration in the difference of freshly milled flours and heritage grains."
+
+    },
+    {
+      "id":6,
+      "name":"Manitobah Mukluks",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-15_at_11.23.00_AM.png?format=webp&v=1596139534",
+      "content":"Founded by Métis entrepreneur Sean McCormick in 1997 and based in Manitoba, Canada, Manitobah Mukluks keeps and celebrates Indigenous traditions through footwear. Its Storyboot Project collection is made in partnership with Indigenous elders and artisans. On the flip side, to make its footwear accessible to more people, there are also lines made internationally."
+
+    },
+    {
+      "id":7,
+      "name":"Allbirds",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-19_at_10.01.28_PM.png?format=webp&v=1596139926",
+      "content":"Footballer Tim Brown and engineer Zoey Zwillinger are the cofounders behind Allbirds, a footwear company that puts natural materials and sustainability first. Allbirds is a merge of comfort and consciousness, with threads made from wool and eucalyptus, simple designs, and packaging made from 90% post-consumer recycled cardboard. It’s also beautifully designed and happens to be one of the best stores on Shopify."
+
+    },
+    {
+      "id":8,
+      "name":"United by Blue",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-19_at_10.04.35_PM.png?format=webp&v=1596140463",
+      "content":"United By Blue removes a pound of trash from the ocean and waterways for each product sold. The apparel and home goods company founded by Brian Linton incorporates sustainability through all areas of its operation. United By Blue is committed to ending the use of single-use plastics like poly bags, bubble wrap sleeves, and plastic tape. It also hosts organized cleanups, allowing customers to get involved with the company’s mission without even making a"
+
+    },
+    {
+      "id":9,
+      "name":"Manitobah Mukluks",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-15_at_11.23.00_AM.png?format=webp&v=1596139534",
+      "content":"Founded by Métis entrepreneur Sean McCormick in 1997 and based in Manitoba, Canada, Manitobah Mukluks keeps and celebrates Indigenous traditions through footwear. Its Storyboot Project collection is made in partnership with Indigenous elders and artisans. On the flip side, to make its footwear accessible to more people, there are also lines made internationally."
+
+    },
+    {
+      "id":10,
+      "name":" Bailly",
+      "img":"https://cdn.shopify.com/s/files/1/0070/7032/files/Screen_Shot_2020-07-19_at_10.28.02_PM.png?format=webp&v=1596140536",
+      "content":"Co-founded by Ariel Gough and Edwina Govindsamy, Bailly is a vegan all-natural fragrance company that gives away 15% of every sale from our Girl Power collection benefits the Just Like My Child Foundation's Girl Power Project. As coconut oil-based scents, Bailly products will not irritate or overpower while providing a soft scent that’s also moisturizing to the skin"
+
+    }
+
+  ],
+  "mens":[
+  
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h76/h55/27102690803742/wewb_men_oct_2022-02-19_six-widget_flat-50.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h25/h56/27102690869278/web_men_f-c-u-k_six-widget_2022-02-19new.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h5d/h19/27083015716894/reebok_6widget.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h1e/h1a/27083015782430/puma_6widget.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h41/h6b/27083016011806/adidas_6widget.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/hef/h6b/27083016077342/fila_6widget.jpg"
+    },
+  
+  
+    {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h66/h75/27083016306718/celio_3x3-widget.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h82/h33/27063821795358/web_men_uspa_top_brands_20220214new.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hdc/h8a/27083016994846/van-heausn_3x3-widget.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h58/hd9/27083017191454/spykar_3x3-widget.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h56/hdc/27083017256990/indian-terrian_3x3-widget.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h67/hdf/27083017322526/lee_3x3-widget.jpg"
+  },
+  
+  
+  
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h30/ha6/26903272226846/Stop--web----6-Widgets_20220124.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h6e/ha5/26903272292382/Bandeya----web----6-Widgets_20220124.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h20/h89/27015756185630/Fratini-----web----6-Widgets_20220124_newjpg.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5f/h9f/26903272423454/Infuse----web----6-Widgets_20220124.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h26/hb0/27015754514462/LIFE--6-wid.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hd8/he5/27015755530270/Fratini---6-wid.jpg"
+   },
+  
+  
+  
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/haa/h28/26906623934494/Sweatshirts-4-Widgets-Web_20220124.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h67/h73/26906624000030/Winter-Jackets-4-Widgets-Web_20220124.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5c/h73/26993926406174/Pullovers-4-Widgets-Web.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h73/hc2/26910294278174/Thermals-4-Widgets-Web_20220125.jpg"
+    },
+  
+  
+  
+    {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h22/h12/26918104432670/Wrangler--4-Widgets-Web.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hc9/hf5/26906625769502/Pepe-Jaens--4-Widgets-Web_20220124.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/ha1/h19/26918104694814/Being-Human--4-Widgets-Web.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/heb/hfb/26906625900574/Mufti--4-Widgets-Web_20220124.jpg"
+     },
+  
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h79/h40/26910302109726/Below-399--WEB------4-Widgets_01.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h2e/h03/26910306926622/Below-499--web---4-Widgets.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/ha1/h47/26910302339102/Below-999--web---4-Widgets_01.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hb1/h4a/26910302404638/Below-1499--WEB------4-Widgets_01.jpg"
+     },
+  
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h30/hb0/27083018502174/Campus-Sutra----6-wid.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h71/hab/27102691262494/app_men_voi-jens_upto-60-off_2022-2-19_six-widget.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h3f/hb5/27102691524638/app_men_colum_bia_six-widget_2022-2-19_new.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h30/haf/27102691393566/app_men_Monte-Carlo-6-widget_202-02-19_newww.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h6f/hae/27102691328030/app_menpgg_realm_flat-60-off_six-widget_2022-02-19new.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h2e/hb2/27102691459102/app_mens_Duke----6-widget_upto-40-off_2022-02-19new.jpg"
+  },
+  
+  
+  
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h9e/h5d/27083022499870/CHINOS---Shirts-6-wid.jpg"
+  },
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h25/h57/27083022663710/CHINOS---6-wid-Jeans.jpg"
+  },
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h66/h53/27083022794782/CHINOS---6-wid-Chinos.jpg"
+  },
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h54/h50/27083022860318/CHINOS---6-wid-Activewear.jpg"
+  },
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h57/h4d/27083022925854/CHINOS---6-wid-Joggers.jpg"
+  },
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h95/h01/27083023089694/CHINOS---6-wid-T-Shirts.jpg"
+  },
+  
+  
+  
+  
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h1f/h23/27100801204254/Park-Avenue-3x3-widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h71/h22/27100801269790/Mufti-3x3-widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h60/h1f/27100801335326/Rodamo-3x3-widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h49/h1b/27100801499166/Arrow-3x3-widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hd2/h11/27100801728542/Color-Plus-3x3-widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h11/h11/27100801794078/Louis-Philippe-3x3-widget.jpg"
+   },
+  
+  
+  
+  
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hbd/hbc/27102691786782/app_mens_pg_f-c-u-k_new_2022-2-19_explore-flat60ofmorebrandss.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h15/hbe/27083021713438/VDOT----r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h0f/hbc/27102691721246/app_mens_Van-Heusen--r-6-Widgets_start-999_rs_2022-02-19new.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hda/h6b/27083022041118/Explore-More-Brands-6-Widgets-Selected.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hdc/h68/27083022106654/Killer---r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5e/h61/27083022368798/Royal-Enfield--r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h8c/h04/27083023220766/Explore-More-Brands-6-Widgets-Bascis.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h4c/h9c/27108362158110/web_mne_expl_mro_nu_up-to-50_2022-2-21.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hb2/h0e/27083023515678/Explore-More-Brands-6-Widgets-Flying-Machine.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h82/h15/27083023712286/Explore-More-Brands-6-Widgets-Arrow-Sports.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h41/h19/27083023843358/Explore-More-Brands-6-Widgets-Free-Authority.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5d/h9f/27108362223646/web_mne_expl_mro_octt_up-to-50_2022-2-21.jpg"
+   },
+  
+  
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h40/h47/14895600730142/pepe.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h3f/hf7/8854902931486/BrandLouis-Philippe.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h28/h5d/15070698471454/BlackBerrys.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h4e/h9f/9519789539358/BrandVettorio-Fratini.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h21/h1e/14895599550494/UCB.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h35/h25/14895599779870/Arrow.png"
+   }
+  ],
+  "women":[
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/hc6/h62/27050127228958/web_wom_kurtas_workwear%20style_po1_20220211.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h04/h62/27050127294494/web_wom_tops%20%26%20tees_workwear%20style_po2_20220211.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/hf5/h5b/27050127425566/web_wom_comfort%20bottom_workwear%20style_po3_20220211.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h36/h58/27050127556638/web_wom_activewear_workwear%20style_po4_20220211.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h24/h55/27050127622174/web_wom_sleepwear_workwear%20style_po5_20220211.jpg"
+    },
+    {
+     "img":"https://sslimages.shoppersstop.com/sys-master/root/h65/h51/27050127753246/web_wom_flip-flops_workwear%20style_po6_20220211.jpg"
+    },
+    
+  
+    {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/he5/h21/27063825891358/web_wom_ruffles_whats-trending%20in_po1_20220214.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h12/hd6/27057672814622/web_wom_florals_whats-trending%20in_po2_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hd1/hd9/27057672945694/web_wom_mandarin-collars_whats-trending%20in_po3_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h6d/h8c/27063829331998/web_wom_st%26ct_20220214_revised.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hb4/hd4/27057673207838/web_wom_a-line-dress_whats-trending%20in_po1_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hf5/hd0/27057673338910/web_wom_solid-color-dress_whats-trending%20in_po2_20220212.jpg"
+  },
+  
+  
+  
+  
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h64/h0a/27057670488094/web_juniper_wom_savemore-shop_20220212.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hc7/hbf/27050112319518/web_wom_yuris_price%20drops_po2_20220210.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hb8/h04/27076501995550/web_wom_au_6widget_20220216.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h29/h64/27076502683678/web_wom_mdme_20220216_newbanner-6widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h29/h64/27076502683678/web_wom_mdme_20220216_newbanner-6widget.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h55/h04/27057670619166/web_wom_monte-carlo_newoffer_20220212_saveshop.jpg"
+   },
+  
+  
+  
+  
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h94/h03/27057670684702/web_womm_and_newoffer_20220212_wp.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hfe/h9c/27045883772958/web_wom_kraus_unbelievable%20deals_po2_20220210.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h7f/hd1/27076503797790/web_wom_forever-new_unbelievable%20deals_po3_20220210.jpg"
+    },
+    {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/haf/hb4/27063827955742/web_wom_flats_unbelievable%20deals_po4_20220214.jpg"
+    },
+  
+  
+  
+    {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h2d/hc6/27050142662686/web_wom_indya-womens_20220201_unbilav.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h10/h33/27045884788766/web_wom_varanga_unbelievable%20deals_po2_20220210.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h01/h2d/27045884919838/web_wom_handbags_unbelievable%20deals_po3_20220210.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h9c/hdc/27076504092702/web_wom_nayomi_unbelievable%20deals_po4_20220210.jpg"
+     },
+  
+  
+  
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/he5/h98/27054736244766/web_wom_sweatshirts_best%20of%20winterwear_po1_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h0c/ha0/27054736474142/web_wom_jackets-coats_best%20of%20winterwear_po2_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h1b/hfa/27054737326110/web_wom_poolovers-cardigans_best%20of%20winterwear_po3_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h5a/hf9/27054737391646/web_wom_boots_best%20of%20winterwear_po4_20220211.jpg"
+     },
+  
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hc6/h62/27050127228958/web_wom_kurtas_workwear%20style_po1_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h04/h62/27050127294494/web_wom_tops%20%26%20tees_workwear%20style_po2_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hf5/h5b/27050127425566/web_wom_comfort%20bottom_workwear%20style_po3_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h36/h58/27050127556638/web_wom_activewear_workwear%20style_po4_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h24/h55/27050127622174/web_wom_sleepwear_workwear%20style_po5_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h65/h51/27050127753246/web_wom_flip-flops_workwear%20style_po6_20220211.jpg"
+     },
+  
+  
+  
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hc6/h62/27050127228958/web_wom_kurtas_workwear%20style_po1_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h04/h62/27050127294494/web_wom_tops%20%26%20tees_workwear%20style_po2_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hf5/h5b/27050127425566/web_wom_comfort%20bottom_workwear%20style_po3_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h36/h58/27050127556638/web_wom_activewear_workwear%20style_po4_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h24/h55/27050127622174/web_wom_sleepwear_workwear%20style_po5_20220211.jpg"
+     },
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h65/h51/27050127753246/web_wom_flip-flops_workwear%20style_po6_20220211.jpg"
+     },
+  
+  
+     {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/he5/h21/27063825891358/web_wom_ruffles_whats-trending%20in_po1_20220214.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h12/hd6/27057672814622/web_wom_florals_whats-trending%20in_po2_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hd1/hd9/27057672945694/web_wom_mandarin-collars_whats-trending%20in_po3_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/h6d/h8c/27063829331998/web_wom_st%26ct_20220214_revised.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hb4/hd4/27057673207838/web_wom_a-line-dress_whats-trending%20in_po1_20220212.jpg"
+  },
+  {
+      "img":"https://sslimages.shoppersstop.com/sys-master/root/hf5/hd0/27057673338910/web_wom_solid-color-dress_whats-trending%20in_po2_20220212.jpg"
+  },
+  
+  
+  
+  
+  {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hbd/hbc/27102691786782/app_mens_pg_f-c-u-k_new_2022-2-19_explore-flat60ofmorebrandss.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h15/hbe/27083021713438/VDOT----r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h0f/hbc/27102691721246/app_mens_Van-Heusen--r-6-Widgets_start-999_rs_2022-02-19new.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hda/h6b/27083022041118/Explore-More-Brands-6-Widgets-Selected.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hdc/h68/27083022106654/Killer---r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5e/h61/27083022368798/Royal-Enfield--r-6-Widgets.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h8c/h04/27083023220766/Explore-More-Brands-6-Widgets-Bascis.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h4c/h9c/27108362158110/web_mne_expl_mro_nu_up-to-50_2022-2-21.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hb2/h0e/27083023515678/Explore-More-Brands-6-Widgets-Flying-Machine.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h82/h15/27083023712286/Explore-More-Brands-6-Widgets-Arrow-Sports.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h41/h19/27083023843358/Explore-More-Brands-6-Widgets-Free-Authority.jpg"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h5d/h9f/27108362223646/web_mne_expl_mro_octt_up-to-50_2022-2-21.jpg"
+   },
+  
+  
+  
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hdf/h8d/8856749047838/BrandBiba.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h3a/h3d/15087373746206/ZINk.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h90/h98/9519789342750"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h50/h83/13761579843614/l_stop-2019.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/hf3/hff/15087376728094/life-logo.png"
+   },
+   {
+    "img":"https://sslimages.shoppersstop.com/sys-master/root/h13/h37/15087379578910/AND.png"
+   }
+  ]
+  
+  
+}

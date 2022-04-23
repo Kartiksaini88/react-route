@@ -1,0 +1,26 @@
+#homeimg{
+    width: 600px;
+}
+#homediv{
+    width: 700px;
+    margin-left: 90px;
+    margin-top: 150px;
+    
+    
+}
+#homep{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    line-height: 30px;
+    
+    
+}
+#homeh2{
+    text-align: left;
+    margin-left: 50px;
+    
+}
